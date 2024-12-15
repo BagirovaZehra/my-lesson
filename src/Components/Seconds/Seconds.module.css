@@ -1,0 +1,16 @@
+.seconds{
+    width: 100px;
+    display: inline-block;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+.second div{
+    margin: 20px 600px;
+}
+.second h1{
+    text-align: center;
+}
+.history{
+    margin-left: -200px;
+}

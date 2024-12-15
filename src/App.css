@@ -1,0 +1,19 @@
+.menu{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 60px;
+}
+a{
+  width: 100px;
+  display: inline-block;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+  text-align: center;
+  color: black;
+}
+.active{
+  color: white;
+  background-color: purple;
+}
